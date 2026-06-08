@@ -111,19 +111,19 @@ POST /products
 
 ### Swagger Documentation
 
-Add Screenshot Here
+
 
 ---
 
 ### Product API Response
 
-Add Screenshot Here
+
 
 ---
 
 ### Project Structure
 
-Add Screenshot Here
+
 
 ---
 
